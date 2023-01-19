@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400831814411",
+    "project_id": "arslanchat-56f2d",
+    "storage_bucket": "arslanchat-56f2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400831814411:android:8fdf0b78edb622430e600e",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400831814411-t1icmtlss315vtn6c6366ktq6jqre2ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHI9CK0d4SiHtNYOePd-xtTvF8-a9Bl-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400831814411-t1icmtlss315vtn6c6366ktq6jqre2ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
